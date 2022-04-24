@@ -97,7 +97,7 @@
       `<p id="MainParagraph" class="h5 mt-3 "> Meet the Programmer!</p>`
     );
     $("main").append(
-      `<img src="./Assets/Images/Me1.png" alt="Solo Picture"  width="300" height="400">`
+      `<img src="./Assets/Images/Me1.png" alt="Solo Picture"  width="500" height="320">`
     );
     $("main")
       .append(`<p class="h7 mt-3 ">-------------------------------------------------------------------------------------------------<br>

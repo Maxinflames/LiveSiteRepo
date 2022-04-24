@@ -59,7 +59,7 @@
     function DisplayAboutPage() {
         console.log("About Page");
         $("main").append(`<p id="MainParagraph" class="h5 mt-3 "> Meet the Programmer!</p>`);
-        $("main").append(`<img src="./Assets/Images/Me1.png" alt="Solo Picture"  width="300" height="400">`);
+        $("main").append(`<img src="./Assets/Images/Me1.png" alt="Solo Picture"  width="500" height="320">`);
         $("main")
             .append(`<p class="h7 mt-3 ">-------------------------------------------------------------------------------------------------<br>
                                        Face Book, 17 years old, works out of Menlo Park, California
