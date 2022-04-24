@@ -1,4 +1,10 @@
-import mongoose, { PassportLocalSchema } from 'mongoose';
+/**
+ * File: user.ts
+ * Author: Maximus Vanhaarlem
+ * Author Id: 100758975
+ * Date: 4/24/2022
+ */
+ import mongoose, { PassportLocalSchema } from 'mongoose';
 const Schema = mongoose.Schema; // alias
 import passportLocalMongoose from "passport-local-mongoose";
 

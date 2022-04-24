@@ -1,3 +1,9 @@
+/**
+ * File: app.ts
+ * Author: Maximus Vanhaarlem
+ * Author Id: 100758975
+ * Date: 4/24/2022
+ */
 // modules to support the express server
 import createError from "http-errors";
 import express, { NextFunction } from "express";

@@ -1,4 +1,10 @@
 #!/usr/bin/env node
+/**
+ * File: server.ts
+ * Author: Maximus Vanhaarlem
+ * Author Id: 100758975
+ * Date: 4/24/2022
+ */
 
 /**
  * Module dependencies.

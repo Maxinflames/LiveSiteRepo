@@ -1,6 +1,11 @@
 // IIFE -- Immediately Invoked Function Express
 // AKA anonymous self-executing function
-
+/**
+ * File: app.ts
+ * Author: Maximus Vanhaarlem
+ * Author Id: 100758975
+ * Date: 4/24/2022
+ */
 "use strict";
 (function () {
   function AuthGuard(): void {

@@ -1,4 +1,10 @@
-import express from 'express';
+/**
+ * File: auth.ts
+ * Author: Maximus Vanhaarlem
+ * Author Id: 100758975
+ * Date: 4/24/2022
+ */
+ import express from 'express';
 const router = express.Router();
 import passport from 'passport';
 

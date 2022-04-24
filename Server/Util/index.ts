@@ -1,4 +1,10 @@
-import express, { Request, Response, NextFunction } from 'express';
+/**
+ * File: index.ts
+ * Author: Maximus Vanhaarlem
+ * Author Id: 100758975
+ * Date: 4/24/2022
+ */
+ import express, { Request, Response, NextFunction } from 'express';
 
 // Enable JWT
 import jwt from 'jsonwebtoken';
